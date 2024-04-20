@@ -3,6 +3,6 @@ import skill
 import time
 
 time.sleep(5) 
-skill.floor1_matona()
+skill.floor1_breaker()
 print("Finalizado")
 
